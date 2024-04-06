@@ -11,7 +11,7 @@ Changes:
 - Made the chance for a bonus to drop a little rarer.
 - Balanced ammo shop costs.
 - If you pickup medkit at full health, it gives you an extra 50 health.
-- Easter egg tweaking.  
+- Made Easter Egg easier to find.  
   
 Fixes:
 - Fixed bug where there could be a chance to skip rounds.
